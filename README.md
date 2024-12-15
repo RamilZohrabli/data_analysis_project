@@ -9,7 +9,8 @@
 | Raul Aghayev                  | 25               |
 | Halima Khanmammadova          | 25               |
 
-
+ ### Github Repository URL: https://github.com/ADA-SITE-ENCE-3503/team-project-team-26.git
+ 
 ## Project Overview
 
 The objective of this project is to collect, clean, analyze, and model event-related data from the website `tickets-az.com` using Python. The project involves web scraping, data processing, exploratory data analysis (EDA), and machine learning modeling.

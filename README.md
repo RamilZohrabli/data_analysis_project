@@ -4,7 +4,7 @@ GitHub Repository: [data_science_project](https://github.com/RamilZohrabli/data_
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 
 This project focuses on collecting, cleaning, analyzing, and modeling event-related data from **[tickets-az.com](https://tickets-az.com)** for events in Baku.  
 
@@ -18,7 +18,7 @@ This project demonstrates the complete **data science pipeline**, from raw data 
 
 ---
 
-## 📂 1. Data Collection  
+## 1. Data Collection  
 
 - Implemented **Google Custom Search API** to query event-related pages.  
 - Extracted fields:  
@@ -34,7 +34,7 @@ This project demonstrates the complete **data science pipeline**, from raw data 
 
 ---
 
-## 🛠 2. Data Preprocessing  
+## 2. Data Preprocessing  
 
 - Removed duplicates.  
 - Normalized and imputed missing **dates**.  
@@ -49,7 +49,7 @@ This project demonstrates the complete **data science pipeline**, from raw data 
 
 ---
 
-## 📊 3. Exploratory Data Analysis (EDA)  
+## 3. Exploratory Data Analysis (EDA)  
 
 Key visualizations:  
 - Events by Year and Month  
@@ -64,7 +64,7 @@ Key visualizations:
 
 ---
 
-## 🤖 4. Machine Learning Model  
+## 4. Machine Learning Model  
 
 **Goal:** Classify events into **Low**, **Medium**, or **High** price categories.  
 
@@ -75,7 +75,7 @@ Key visualizations:
 
 ---
 
-## ⚙️ 5. Requirements  
+## 5. Requirements  
 
 Install dependencies:  
 
